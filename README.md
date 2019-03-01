@@ -7,3 +7,4 @@ uri solutions
 - 28 Feb 19 - [**1082** Componentes Conexos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1082)
 
 ## Mar 19
+- 1 Mar 19 - [**1244** Ordenação por Tamanho](https://www.urionlinejudge.com.br/judge/pt/problems/view/1244)
