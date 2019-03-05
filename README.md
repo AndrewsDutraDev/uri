@@ -11,3 +11,4 @@ uri solutions
 - 2 Mar 19 - [**1774** Roteadores](https://www.urionlinejudge.com.br/judge/pt/problems/view/1774)
 - 3 Mar 19 - [**1212** Aritmética Primária](https://www.urionlinejudge.com.br/judge/pt/problems/view/1212)
 - 4 Mar 19 - [**1076** Desenhando Labirintos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1076)
+- 5 Mar 19 - [**1855** Mapa do Meistre](https://www.urionlinejudge.com.br/judge/pt/problems/view/1855)
