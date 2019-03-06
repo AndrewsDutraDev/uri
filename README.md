@@ -13,3 +13,4 @@ uri solutions
 - 4 Mar 19 - [**1076** Desenhando Labirintos](https://www.urionlinejudge.com.br/judge/pt/problems/view/1076)
 - 5 Mar 19 - [**1855** Mapa do Meistre](https://www.urionlinejudge.com.br/judge/pt/problems/view/1855)
 - 5 Mar 19 - [**1558** Soma de Dois Quadrados](https://www.urionlinejudge.com.br/judge/pt/problems/view/1558)
+- 6 Mar 19 - [**1100** Movimentos do Cavalo](https://www.urionlinejudge.com.br/judge/pt/problems/view/1100)
