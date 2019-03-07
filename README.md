@@ -12,3 +12,4 @@
 | 5 Mar 19  | Grafos     | `C`       | **1855** Mapa do Meistre            | [1855](1855)  |
 | 5 Mar 19  | AD-HOC     | `C`       | **1558** Soma de Dois Quadrados     | [1558](1558)  |
 | 6 Mar 19  | Grafos     | `C++`     | **1100** Movimentos do Cavalo       | [1100](1100)  |
+| 7 Mar 19  | AD-HOC     | `C`       | **2434** Saldo do Vovô              | [2434](2434)  |
