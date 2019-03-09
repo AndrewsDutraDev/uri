@@ -14,3 +14,4 @@
 | 6 Mar 19  | Grafos     | `C++`     | **1100** Movimentos do Cavalo           | [1100](1100)  |
 | 7 Mar 19  | AD-HOC     | `C`       | **2434** Saldo do Vovô                  | [2434](2434)  |
 | 8 Mar 19  | Grafos     | `C`       | **1191** Recuperação da Árvore          | [1191](1191)  |
+| 9 Mar 19  | Grafos     | `C`       | **1191** Recuperação da Árvore          | [1191](1194)  |
