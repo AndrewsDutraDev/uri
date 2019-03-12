@@ -17,3 +17,4 @@
 | 9 Mar 19  | Grafos     | `C`       | **1194** Prefixa, Infixa e Posfixa      | [1194](1194)  |
 | 10 Mar 19 | Grafos     | `C++`     | **1550** Inverão                        | [1550](1550)  |
 | 11 Mar 19 | AD-HOC     | `C`       | **2388** Tacógrafo                      | [2388](2388)  |
+| 12 Mar 19 | AD-HOC     | `C`       | **2473** Loteria                        | [2473](2473)  |

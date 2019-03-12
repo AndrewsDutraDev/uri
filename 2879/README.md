@@ -3,3 +3,5 @@
 **Tags:**
 - Iniciante
 - `C`
+- Laço
+- Soma
