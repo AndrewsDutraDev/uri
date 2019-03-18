@@ -20,3 +20,4 @@
 | 12 Mar 19 | AD-HOC     | `C`       | **2473** Loteria                        | [2473](2473)  |
 | 13 Mar 19 | Matemática | `C`       | **2598** Colocando Radares              | [2598](2598)  |
 | 17 Mar 19 | Grafos     | `C`       | **1200** Operações em ABP I             | [1200](1200)  |
+| 18 Mar 19 | Iniciante  | `C`       | **2808** Mais Cavalos                   | [2808](2808)  |
