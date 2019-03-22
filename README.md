@@ -2,7 +2,8 @@
 
 | Data      | Categoria  | Linguagem | Problema                                | Code          | 
 |-----------|------------|-----------|-----------------------------------------|---------------|
-| 21 Mar 19 | AD-HOC     | `C`       | **2218** Receita de Bolo                | [2218](2218)  |
+| 22 Mar 19 | AD-HOC     | `C`       | **1793** Escada Rolante                 | [1793](1793)  |
+| 21 Mar 19 | AD-HOC     | `C`       | **2218** O Temível Evil-Son             | [2218](2218)  |
 | 20 Mar 19 | AD-HOC     | `C`       | **2423** Receita de Bolo                | [2423](2423)  |
 | 19 Mar 19 | Grafos     | `C`       | **1201** Operações em ABP II            | [1201](1201)  |
 | 18 Mar 19 | Iniciante  | `C`       | **2808** Mais Cavalos                   | [2808](2808)  |
