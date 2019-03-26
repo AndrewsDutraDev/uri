@@ -2,6 +2,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                | Code          | 
 |-----------|------------|-----------|-----------------------------------------|---------------|
+| 26 Mar 19 | Iniciante  | `C`       | **2862** Inseto!                        | [2862](2862)  |
 | 25 Mar 19 | AD-HOC     | `C`       | **1890** Emplacando os Tuk-tuks         | [1890](1890)  |
 | 24 Mar 19 | Grafos     | `C++`     | **2854** Árvore Genealógica             | [2854](2854)  |
 | 23 Mar 19 | AD-HOC     | `C`       | **1515** Hello Galaxy                   | [1515](1515)  |
