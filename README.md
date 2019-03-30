@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                | Code                 | 
 |-----------|------------|-----------|-----------------------------------------|----------------------|
+| 29 Mar 19 | Grafos     | `C++`     | **1466** Percurso em Árvore por Nível   | [1466](201903/1466)  |
 | 29 Mar 19 | Grafos     | `C++`     | **1931** Mania de Par                   | [1931](201903/1931)  |
 | 26 Mar 19 | Iniciante  | `C`       | **2862** Inseto!                        | [2862](201903/2862)  |
 | 25 Mar 19 | AD-HOC     | `C`       | **1890** Emplacando os Tuk-tuks         | [1890](201903/1890)  |
