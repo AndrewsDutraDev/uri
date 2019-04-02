@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                | Code                 | 
 |-----------|------------|-----------|-----------------------------------------|----------------------|
+| 2 Abr  19 | Matemática | `Python`  | **2763** Entrada e Saída CPF            | [2763](201904/2763)  |
 | 1 Abr  19 | Matemática | `C`       | **2514** Alinhamento Lunar              | [2514](201904/2514)  |
 
 ## Mar 19
