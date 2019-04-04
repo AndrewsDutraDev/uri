@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 4 Abr  19 | String     | `C++`     | **1239** Atalhos Bloggo                      | [1239](201904/1239)  |
 | 3 Abr  19 | Geometria  | `C`       | **1295** Problema dos Pares Mais Próximos    | [1295](201904/1295)  |
 | 2 Abr  19 | Iniciante  | `Python`  | **2763** Entrada e Saída CPF                 | [2763](201904/2763)  |
 | 1 Abr  19 | Matemática | `C`       | **2514** Alinhamento Lunar                   | [2514](201904/2514)  |
