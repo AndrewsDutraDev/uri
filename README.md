@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 7 Abr 19  | Grafos     | `C`       | **1835** Promessa de Campanha                | [1835](201903/1835)  |
 | 6 Abr 19  | Grafos     | `C`       | **1552** Resgate em Queda Livre              | [1552](201903/1552)  |
 | 5 Abr  19 | String     | `C`       | **2137** A Biblioteca do Senhor Severino     | [2137](201904/2137)  |
 | 4 Abr  19 | String     | `C++`     | **1239** Atalhos Bloggo                      | [1239](201904/1239)  |
