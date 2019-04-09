@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 9 Abr 19  | String     | `Python`  | **1873** Pedra-papel-tesoura-lagarto-Spock   | [1873](201904/1873)  |
 | 8 Abr 19  | Grafos     | `C`       | **1907** Coloração de Cenários de Jogos      | [1907](201904/1907)  |
 | 7 Abr 19  | Grafos     | `C`       | **1835** Promessa de Campanha                | [1835](201904/1835)  |
 | 6 Abr 19  | Grafos     | `C`       | **1552** Resgate em Queda Livre              | [1552](201904/1552)  |
