@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 11 Abr 19 | Geometria  | `C`       | **1292** Problema com um Pentágono           | [1292](201904/1292)  |
 | 10 Abr 19 | String     | `C++`     | **1237** Comparação de Substring             | [1237](201904/1237)  |
 | 9 Abr 19  | String     | `Python`  | **1873** Pedra-papel-tesoura-lagarto-Spock   | [1873](201904/1873)  |
 | 8 Abr 19  | Grafos     | `C`       | **1907** Coloração de Cenários de Jogos      | [1907](201904/1907)  |
