@@ -1,0 +1,7 @@
+[1790 Detectando Pontes](https://www.urionlinejudge.com.br/judge/pt/problems/view/1790)
+
+**Tags:**
+- Grafos
+- `C++`
+- Pontes
+- DFS

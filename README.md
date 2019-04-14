@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 14 Abr 19 | Grafos     | `C++`     | **1790** Detectando Pontes                   | [1790](201904/1790)  |
 | 13 Abr 19 | Grafos     | `C++`     | **1135** Colônia de Formigas                 | [1135](201904/1135)  |
 | 12 Abr 19 | String     | `C`       | **2062** OBI URI                             | [2062](201904/2062)  |
 | 11 Abr 19 | Geometria  | `C`       | **1292** Problema com um Pentágono           | [1292](201904/1292)  |
