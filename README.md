@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 16 Abr 19 | String     | `C`       | **1430** - Máximo entre todas combinações    | [1430](201904/1430)  |
 | 15 Abr 19 | String     | `C`       | **1263** Aliteração                          | [1263](201904/1263)  |
 | 14 Abr 19 | Grafos     | `C++`     | **1790** Detectando Pontes                   | [1790](201904/1790)  |
 | 13 Abr 19 | Grafos     | `C++`     | **1135** Colônia de Formigas                 | [1135](201904/1135)  |
