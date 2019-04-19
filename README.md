@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 19 Abr 19 | Estruturas | `C++`     | **1062** Trilhos                             | [1062](201904/1062)  |
 | 18 Abr 19 | String     | `C`       | **2253** Validador de Senhas                 | [2253](201904/2253)  |
 | 17 Abr 19 | Matemática | `C`       | **1429** Fatorial de Novo!                   | [1429](201904/1429)  |
 | 16 Abr 19 | String     | `C`       | **1430** Máximo entre todas combinações      | [1430](201904/1430)  |
