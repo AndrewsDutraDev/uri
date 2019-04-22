@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 22 Abr 19 | Matemática | `C`       | **1247** Guarda Costeira                     | [1247](201904/1247)  |
 | 21 Abr 19 | Matemática | `C++`     | **1199** Conversão Simples de Base           | [1199](201904/1199)  |
 | 20 Abr 19 | Estruturas | `C`       | **1162** Organizador de Vagões               | [1162](201904/1162)  |
 | 19 Abr 19 | Estruturas | `C++`     | **1062** Trilhos                             | [1062](201904/1062)  |
