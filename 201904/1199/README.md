@@ -2,5 +2,5 @@
 
 **Tags:**
 - Matemática
-- `C`
+- `C++`
 - Conversão de base
