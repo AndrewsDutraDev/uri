@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 26 Abr 19 | Estruturas | `C++`     | **1088** Bolhas e Baldes                     | [1088](201904/1088)  |
 | 25 Abr 19 | Iniciante  | `C`       | **2717** Tempo do Duende                     | [2717](201904/2717)  |
 | 24 Abr 19 | Matemática | `C++`     | **1193** Conversão entre Bases               | [1193](201904/1193)  |
 | 23 Abr 19 | String     | `C`       | **1217** Getline Two - Frutas                | [1217](201904/1217)  |
