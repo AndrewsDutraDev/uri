@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 29 Abr 19 | Matemática | `C`       | **1795** Triângulo Trinomial                 | [1795](201904/1795)  |
 | 28 Abr 19 | Iniciante  | `C`       | **2163** O Despertar da Força                | [2163](201904/2163)  |
 | 27 Abr 19 | Iniciante  | `C`       | **2162** Picos e Vales                       | [2162](201904/2162)  |
 | 26 Abr 19 | Estruturas | `C++`     | **1088** Bolhas e Baldes                     | [1088](201904/1088)  |
