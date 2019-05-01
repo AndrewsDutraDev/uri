@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 30 Abr 19 | Paradigmas | `C`       | **1310** Lucro                               | [1310](201904/1310)  |
 | 29 Abr 19 | Matemática | `C`       | **1795** Triângulo Trinomial                 | [1795](201904/1795)  |
 | 28 Abr 19 | Iniciante  | `C`       | **2163** O Despertar da Força                | [2163](201904/2163)  |
 | 27 Abr 19 | Iniciante  | `C`       | **2162** Picos e Vales                       | [2162](201904/2162)  |
