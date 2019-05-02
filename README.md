@@ -1,5 +1,11 @@
 # URI solutions
 
+## Mai 19
+
+| Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
+|-----------|------------|-----------|----------------------------------------------|----------------------|
+| 1 Mai 19  | AD-HOC     | `C`       | **1514** Competição                          | [1514](201905/1514)  |
+
 ## Abr 19
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
