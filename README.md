@@ -1,5 +1,11 @@
 # URI solutions
 
+## Jun 19
+
+| Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
+|-----------|------------|-----------|----------------------------------------------|----------------------|
+| 2 Jun 19  | Grafos     | `C++`     | **1123** Desvio de Rota                      | [1123](201906/1123)  |
+
 ## Mai 19
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
