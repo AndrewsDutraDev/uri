@@ -4,7 +4,8 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
-| 10 Jun 19 | String     | Python    | **2174** Coleção de Pomekon                  | [2174](201906/2174)  |
+| 10 Jun 19 | AD-HOC     | `C++`     | **1084** Apagando e Ganhando                 | [1084](201906/1084)  |
+| 10 Jun 19 | String     | `Python`  | **2174** Coleção de Pomekon                  | [2174](201906/2174)  |
 | 2 Jun 19  | Grafos     | `C++`     | **1123** Desvio de Rota                      | [1123](201906/1123)  |
 
 ## Mai 19
