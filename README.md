@@ -4,6 +4,7 @@
 
 | Data      | Categoria  | Linguagem | Problema                                     | Code                 | 
 |-----------|------------|-----------|----------------------------------------------|----------------------|
+| 11 Jun 19 | Estruturas | `C`       | **1258** Camisetas                           | [1258](201906/1258)  |
 | 10 Jun 19 | AD-HOC     | `C++`     | **1084** Apagando e Ganhando                 | [1084](201906/1084)  |
 | 10 Jun 19 | String     | `Python`  | **2174** Coleção de Pomekon                  | [2174](201906/2174)  |
 | 2 Jun 19  | Grafos     | `C++`     | **1123** Desvio de Rota                      | [1123](201906/1123)  |
